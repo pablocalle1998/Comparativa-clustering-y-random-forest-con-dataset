@@ -1,7 +1,7 @@
 # Comparacion de modelo de analisis Covid-19
 
 
-Nuestro cuaderno realizado en google colab muestra los procesos que llevamos a cabo para realizar este proyecto, el cual tiene como proposito principal, el darnos una prediccion de que personas contrajeron el virus corona , en base a un analisis de posibles sintomas y condiiones diferentes. Aplicamos tecnicas de aprendizaje supervisado y no supervisado, como lo son una red neuronal y el metodo de clustering. Esto con el fin de averiguar cual de las dos tecnicas resulta mas apropiada e eficiente, no solo en tiempos de ejecucion sino tambien en representacion de resultados obtenidos.
+Nuestro cuaderno realizado en google colab muestra los procesos que llevamos a cabo para realizar este proyecto, el cual tiene como proposito principal, el darnos una prediccion de que personas contrajeron el virus conocido como corona , en base a un analisis de posibles sintomas y condiiones diferentes. Aplicamos tecnicas de aprendizaje no supervisado, como lo es el metodo de clustering y el metodo de random forest. Esto con el fin de averiguar cual de las dos tecnicas resulta mas apropiada e eficiente, no solo en tiempos de ejecucion sino tambien en representacion de resultados obtenidos.
 Procedimientos seguidos:
 
   - Carga de los datasets
@@ -13,7 +13,7 @@ Procedimientos seguidos:
 # Requisitos
 
   - Python 3.0
-  - Conjunto de datos "2.COVID19_clasificacion.xlsx" y "DatasetPreprocesado.csv".
+  - Conjunto de datos "2.COVID19_clasificacion.xlsx" y "DatosParaAnalisis.csv".
 
 
 # Dependencias
