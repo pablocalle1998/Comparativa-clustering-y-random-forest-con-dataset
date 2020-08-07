@@ -9,6 +9,15 @@ Procedimientos seguidos:
   - Entrenamiento del modelo.
   - Exposicion de resultados.
   - Visusalizaion de esquemas con metricas de analisis.
+  
+  
+# Explicacion de documentos disponibles
+  - Modelos para el análisis de los factores más relevantes en Covid-19, mediante métodos de clustering y random forest.ipynb.ipynb - Colaboratory_files: Carpeta contenedora de elementos necesarios para utilizar el html del google colab.
+  - 2.COVID19_clasificacion.xlsx: Dataset no procesado, en el que se muestran los datos a analizar.
+  - DatosParaAnalisis.csv: Dataset ya procesado, utilizado para el clustering.
+  - Modelos para el análisis de los factores más relevantes en Covid-19, mediante métodos de clustering y random forest.ipynb: codigo fuente del modelo en python.
+  - Modelos para el análisis de los factores más relevantes en Covid-19, mediante métodos de clustering y random forest.html: Html donde se nos direcciona a nuestro google colab.
+
 
 # Requisitos
 
